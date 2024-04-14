@@ -1,0 +1,7 @@
+.sponsor-card img {
+    height: 306px;
+    width: 728px;
+}
+.sponsor-card * {
+    padding: 0;
+}

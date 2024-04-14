@@ -1,0 +1,45 @@
+.carousel-control-next-icon {
+    background-image: url("../../assets/icons/arrow_next.svg");
+}
+
+.carousel-control-prev-icon {
+    background-image: url("../../assets/icons/arrow_prev.svg");
+}
+
+/* .carousel-body {
+    border-radius: 8px;
+    padding: 0px 12px 0px 12px;
+    text-align: start;
+    width: 100%;
+}
+
+.carousel {
+    height: 339px;
+    border-radius: 8px;
+}
+
+.carousel-item img {
+    height: 339px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+} */
+
+.carousel-caption {
+    height: 88px;
+    left: 8px;
+    right: 8px;
+    text-overflow: ellipsis;
+    line-height: 2;
+    text-wrap: balance;
+    overflow: hidden;
+}
+/* .carousel-caption p {
+    height: 100%;
+    font-size: 16px;
+    text-overflow: ellipsis;
+}
+  */
+.dark-background {
+    background-color: #212C4ABF;
+}

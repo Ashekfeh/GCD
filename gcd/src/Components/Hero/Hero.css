@@ -1,0 +1,42 @@
+.image-height {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.rounded-div-right {
+    border-radius: 0 8px 8px 0;
+}
+
+.rounded-div-left {
+    border-radius: 8px 0 0 8px;
+}
+
+.hero-card-text {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.hero-card-text h3 {
+    padding-bottom: 20px;
+}
+
+.no-padding {
+    padding: 0px;
+    height: 418px;
+}
+
+.text-margin {
+    margin-left: 16px;
+    margin-right: 26px;
+}
+
+.toto {
+    border: 1px solid green;
+}
+.fofo {
+    width: 100%;
+    object-fit: contain;
+}
